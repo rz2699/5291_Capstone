@@ -12,4 +12,5 @@ Cryptocurrencies are digital currencies that operate on blockchain technology an
 - Cumulative Supply Data: Includes the total number of mined bitcoin, incorperated with the block rewards and Stock-to-Flow ratio.
 
 --
+
 The full code used for this project can be accessed in `5291 final project.ipynb`
